@@ -1,6 +1,12 @@
  
 # vendOprint: Streamline Your Document Printing
 
+![React](https://skillicons.dev/icons?i=react)
+![Vite](https://skillicons.dev/icons?i=vite)
+![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![GitHub](https://skillicons.dev/icons?i=github)
+
 
 Welcome to the frontend repository of vendOprint, a cutting-edge document management web application designed to revolutionize your printing experience!
 
@@ -22,23 +28,30 @@ Enjoy a flawless experience across various devices and screen sizes thanks to ou
 
 ## Technology Stack:
 
+![React](https://skillicons.dev/icons?i=react) 
 ### React:
-![React](https://skillicons.dev/icons?i=react)
+
 A powerful JavaScript library serving as the foundation for building the intuitive user interface of vendOprint.
 
+![Vite](https://skillicons.dev/icons?i=vite)
 ### Vite: 
 A lightning-fast build tool that streamlines the development process and ensures rapid project setup.
 
+![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss)
 ### Tailwind CSS: 
 A utility-first CSS framework offering a plethora of pre-built styles, enabling rapid and clean UI development.
 
+![React Router](https://skillicons.dev/icons?i=reactrouter)
 ### React Router: 
 This robust library facilitates navigation and routing within the vendOprint application, allowing users to navigate between features smoothly.
 
+![Razorpay](https://skillicons.dev/icons?i=razorpay)
 ### Razorpay: 
 A secure payment gateway chosen for its reliability and efficiency in handling your financial transactions.
 
 ## Prerequisites:
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![npm](https://skillicons.dev/icons?i=npm) ![yarn](https://skillicons.dev/icons?i=yarn) yarn
 
 ```console
 Node.js (https://nodejs.org/)
