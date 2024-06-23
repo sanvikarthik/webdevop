@@ -41,21 +41,41 @@ A lightning-fast build tool that streamlines the development process and ensures
 ### Tailwind CSS: 
 A utility-first CSS framework offering a plethora of pre-built styles, enabling rapid and clean UI development.
 
-![React Router](https://skillicons.dev/icons?i=reactrouter)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ReactRouter-Dark.svg" width="20">
 ### React Router: 
 This robust library facilitates navigation and routing within the vendOprint application, allowing users to navigate between features smoothly.
 
-![Razorpay](https://skillicons.dev/icons?i=razorpay)
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Payment-Dark.svg" width="20">
 ### Razorpay: 
 A secure payment gateway chosen for its reliability and efficiency in handling your financial transactions.
 
 ## Prerequisites:
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![npm](https://skillicons.dev/icons?i=npm) ![yarn](https://skillicons.dev/icons?i=yarn) yarn
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![npm](https://skillicons.dev/icons?i=npm) ![yarn](https://skillicons.dev/icons?i=yarn) 
+
+### Install Node.js:
+
+#### Windows:
+Run the downloaded .msi installer.
+Follow the prompts in the installer
+
+#### macOS:
+Run the downloaded .pkg installer.
+Follow the prompts to complete the installation.
+
+#### Linux:
+
+##### Debian/Ubuntu 
 
 ```console
-Node.js (https://nodejs.org/)
-npm (Node Package Manager) or yarn (https://yarnpkg.com/)
+sudo apt update
+sudo apt install nodejs
+```
+
+##### CentOS/RHEL:
+
+```console
+sudo yum install nodejs
 ```
 
 ## Project Structure:
