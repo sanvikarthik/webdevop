@@ -41,15 +41,14 @@ A lightning-fast build tool that streamlines the development process and ensures
 ### Tailwind CSS: 
 A utility-first CSS framework offering a plethora of pre-built styles, enabling rapid and clean UI development.
 
-![React Router](https://github.com/tandpfun/skill-icons/raw/main/icons/ReactRouter-Dark.svg)
-
+![React Router](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ReactRouter-Dark.svg)
 ### React Router: 
 This robust library facilitates navigation and routing within the vendOprint application, allowing users to navigate between features smoothly.
 
-![Razorpay](https://github.com/tandpfun/skill-icons/raw/main/icons/Payment-Dark.svg)
-
+![Razorpay](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Payment-Dark.svg)
 ### Razorpay: 
 A secure payment gateway chosen for its reliability and efficiency in handling your financial transactions.
+
 
 
 ## Prerequisites:
