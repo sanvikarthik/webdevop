@@ -41,7 +41,7 @@ A lightning-fast build tool that streamlines the development process and ensures
 ### Tailwind CSS: 
 A utility-first CSS framework offering a plethora of pre-built styles, enabling rapid and clean UI development.
 
-![React Router](https://github.com/tandpfun/skill-icons/raw/main/icons/ReactRouter.svg)
+![React Router](https://skillicons.dev/icons?i=reactrouter)
 ### React Router: 
 This robust library facilitates navigation and routing within the vendOprint application, allowing users to navigate between features smoothly.
 
